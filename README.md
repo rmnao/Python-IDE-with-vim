@@ -2,12 +2,12 @@
 You might think that your development ENV wouldnt effect much but i am gonna prove you wrong.In this repositorie i am going to share that sweet coconut oil.So lets get star#ted
 # Introduction
 # Pro's
-Autocomplete
-Nerdtree for filenavigation
-Python mode
-Syntax check
-Vim airlines
-Vim tabline
+1)Autocomplete
+2)Nerdtree for filenavigation
+3)Python mode
+4)Syntax check
+5)Vim airlines
+6)Vim tabline
 # Wonderful autocomplete
 I use Tabnine and no I am not sponsored. Tabnine is fast and easy to install. I wasted a lost of time installing YouCompletMe.So I recommend tabnine
 ![Screenshot](autocomplete.png)
