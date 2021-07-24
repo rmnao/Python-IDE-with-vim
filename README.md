@@ -19,7 +19,7 @@ This prevents us from breaking our heads by checking whats wrong.
 ![Screenshot](indentationeroors.png)
 # Nerd Tree - file navigation
 Nerd Tree is wonderful for file navigation. Most Vim users use it
-![Screenshot](Nerd Tree.png)
+![Image](Nerd Tree.png)
 # Vim Airline
 Vim airline helps us to differnetiate between insert visual and normal mode.
 ![Screenshot](vim airline.png)
