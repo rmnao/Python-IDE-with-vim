@@ -16,7 +16,7 @@ Code folding enables us to understand long code properly. This come with most ID
 ![Screenshot](codefolding.png)
 # Proper syntax error checking
 This prevents us from breaking our heads by checking whats wrong.
-![Screenshot](indentationeroors.png)
+![Screenshot](syntax errror.png)
 # Nerd Tree - file navigation
 Nerd Tree is wonderful for file navigation. Most Vim users use it
 ![Image(Nerd Tree.png)
