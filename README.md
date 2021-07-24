@@ -22,7 +22,7 @@ Nerd Tree is wonderful for file navigation. Most Vim users use it
 ![Image(Nerd Tree.png)
 # Vim Airline
 Vim airline helps us to differnetiate between insert visual and normal mode.
-![Screenshot](vim airline.png)
+![image](https://github.com/Sreehariqwerty/Python-IDE-with-vim/blob/main/Nerd%20Tree.png)
 ![Screenshot](vim air.png)
 
 # Installation
